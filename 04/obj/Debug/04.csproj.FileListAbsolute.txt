@@ -1,0 +1,7 @@
+D:\DomashnaRabota\MatrixAndMultArr\04\bin\Debug\04.exe.config
+D:\DomashnaRabota\MatrixAndMultArr\04\bin\Debug\04.exe
+D:\DomashnaRabota\MatrixAndMultArr\04\bin\Debug\04.pdb
+D:\DomashnaRabota\MatrixAndMultArr\04\obj\Debug\04.csproj.AssemblyReference.cache
+D:\DomashnaRabota\MatrixAndMultArr\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\MatrixAndMultArr\04\obj\Debug\04.exe
+D:\DomashnaRabota\MatrixAndMultArr\04\obj\Debug\04.pdb
